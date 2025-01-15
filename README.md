@@ -30,4 +30,5 @@ To add an employee, fill out the form provided on the webpage with the employee'
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
+- The `frontend` and `backend` folders each contain their own documentation. Please refer to these documents for any questions or doubts regarding their respective functionalities and structures.
 
